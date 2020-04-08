@@ -15,7 +15,7 @@ function binary(a) {
 //      Enter Binary Number Here      /
 //************************************/
 
-var binaryNumber = 1023; //Enter decimal value here that you would like converted
+var binaryNumber = 10; //Enter decimal value here that you would like converted
 console.log(binary(binaryNumber));
 
 //************************************/
